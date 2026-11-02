@@ -1,0 +1,10 @@
+1;Kross Hexagon;Gorski;25.00;0
+2;Romet Wagant;Trekkingowy;20.00;0
+3;Kross Trans;Miejski;15.00;0
+4;Giant Talon;Gorski;30.00;1
+5;Romet Orkan;Crossowy;22.00;0
+6;Merida Big Nine;Gorski;35.00;0
+7;Kross Level;Gorski;28.00;1
+8;Romet Art Deco;Miejski;18.00;0
+9;Giant Escape;Trekkingowy;24.00;0
+10;Merida Crossway;Crossowy;26.00;0
